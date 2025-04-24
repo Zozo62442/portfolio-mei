@@ -24,6 +24,16 @@ h1, h2 {
     border-radius: 0;
 }
 
+/* Buttons */
+.custom-button {
+    background-color: #1f7798;
+    border-color: #1f7798;
+}
+
+.custom-button:hoover {
+    background-color: #1d6d8a;
+} 
+
  /* About section */
 
  #about {
